@@ -1,0 +1,47 @@
+*{
+	/*border:1px solid gray;*/
+}
+html,body{
+	background-image:url("IMG/1.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+
+}
+div.container #header{
+	background-color: white;
+	width: 64.66666%;
+	border-radius: 8px;
+}
+	div.container #header h1,h5{
+		text-align: center;
+	}
+	div.container #header h1{
+		letter-spacing: 20px;
+		font-family: "Stencil Std", fantasy;
+		border: 1px solid white;
+		font-size: 40px;
+	}
+div.container img{
+	/*display: inline-block;*/
+	width: 25%;
+	height: 188px;
+	margin: 10px 8px 0 0;
+	border: 1px solid white;
+}
+	.img-rounded:hover{
+		transform: scale(1.2);
+	}
+div.container #bottom{
+	border:12px solid white;
+	height: 296px;
+	border-radius: 8px;
+	margin-top: 15px;
+	width: 64.66666%;
+}
+div.container #top{
+	margin-top: 5px;
+}
+div.container #bottom h2,h4,p{
+	color: white;
+}

@@ -1,0 +1,3 @@
+How to bypass 'Access-Control-Allow-Origin' error with XMLHttpRequest (jQuery Ajax)
+
+http://ourcodeworld.com/articles/read/73/how-to-bypass-access-control-allow-origin-error-with-xmlhttprequest-jquery-ajax-
